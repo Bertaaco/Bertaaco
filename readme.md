@@ -14,6 +14,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Bertaaco/Bertaaco/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -44,6 +48,12 @@
   <a href="https://www.instagram.com/bertaaco/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Bertaaco/count.svg?"  />
 </div>
 
 ###
