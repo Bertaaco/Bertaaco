@@ -14,10 +14,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bertaaco/Bertaaco/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
 <h2 align="left">Stats</h2>
 
 ###
@@ -27,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bertaaco&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bertaaco&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Bertaaco/Bertaaco/output/snake.svg" alt="Snake animation" />
 
 ###
 
