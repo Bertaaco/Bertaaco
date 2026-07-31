@@ -23,23 +23,9 @@ Sou Felipe Bertaco Cruz, tenho 18 anos e sou estudante do Curso Técnico em Dese
 Durante minha formação, desenvolvi experiência prática em projetos de desenvolvimento de sistemas, além de fortalecer competências como trabalho em equipe, comunicação, organização, responsabilidade e proatividade.
 Estou em busca da minha primeira oportunidade na área de tecnologia, onde possa aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente, contribuindo com dedicação, comprometimento e vontade de aprender.
 
----
-
-### 🛠️ Tecnologias
-
-> _Reservei este espaço pra você — me conta quais tecnologias e ferramentas usa que eu preencho com os ícones certos._
-
----
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&theme=radical)
-
----
 
 <div align="center">
 
-Feito com 💙 por **Felipe Bertaco Cruz**
+
 
 </div>
