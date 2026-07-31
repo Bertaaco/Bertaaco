@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Felipe Bertaco Cruz 👋
+# Felipe Bertaco Cruz 
 
 _Bem-vindo(a) ao meu perfil no GitHub!_
 
@@ -19,10 +19,9 @@ _Bem-vindo(a) ao meu perfil no GitHub!_
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando em: _adicione aqui_
-- 🌱 Aprendendo: _adicione aqui_
-- 💬 Fale comigo sobre: _seus interesses_
-- 📫 Onde me encontrar: nas redes acima ⬆️
+Sou Felipe Bertaco Cruz, tenho 18 anos e sou estudante do Curso Técnico em Desenvolvimento de Sistemas no SENAI A. Jacob Lafer. Tenho grande interesse pela área de tecnologia e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades.
+Durante minha formação, desenvolvi experiência prática em projetos de desenvolvimento de sistemas, além de fortalecer competências como trabalho em equipe, comunicação, organização, responsabilidade e proatividade.
+Estou em busca da minha primeira oportunidade na área de tecnologia, onde possa aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente, contribuindo com dedicação, comprometimento e vontade de aprender.
 
 ---
 
