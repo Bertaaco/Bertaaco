@@ -1,40 +1,46 @@
-<h2 align="left">Techs</h2>
+<div align="center">
 
-###
+# Olá, eu sou o Felipe Bertaco Cruz 👋
 
+_Bem-vindo(a) ao meu perfil no GitHub!_
 
+<p align="center">
+  <a href="https://x.com/bertzix" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://instagram.com/bertaaco" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bertaaco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bertaaco&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bertaaco&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
-<h2 align="left">Redes sociais</h2>
+### 🚀 Sobre mim
 
-###
+- 🔭 Atualmente trabalhando em: _adicione aqui_
+- 🌱 Aprendendo: _adicione aqui_
+- 💬 Fale comigo sobre: _seus interesses_
+- 📫 Onde me encontrar: nas redes acima ⬆️
 
-<div align="left">
-  <a href="https://x.com/Bertzix" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/bertaaco/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+---
 
-###
+### 🛠️ Tecnologias
+
+> _Reservei este espaço pra você — me conta quais tecnologias e ferramentas usa que eu preencho com os ícones certos._
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&theme=radical)
+
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Bertaaco/count.svg?"  />
-</div>
 
-###
+Feito com 💙 por **Felipe Bertaco Cruz**
+
+</div>
